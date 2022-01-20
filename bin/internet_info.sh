@@ -46,4 +46,4 @@ fi
 
 # echo -n "$INTERNET  -[$internet_info]db | #[fg=colour81]$PL #[fg=colour86]$DL Mbit/s $UP Mbit/s #[fg=colour197]$IP | $PUBLIC_IP"
 
-echo -n "$INTERNET  -[$internet_info]db | #[fg=colour197]$IP | $PUBLIC_IP"
+echo -n "$INTERNET  -[$internet_info]db | #[fg=colour197]$IP"
